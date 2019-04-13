@@ -1,0 +1,816 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Fox Sports 2">
+    <display-name lang="pt">Fox Sports 2</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-sports-2.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Disney Júnior">
+    <display-name lang="pt">Disney Júnior</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Esporte Interativo [Brazil]">
+    <display-name lang="pt">Esporte Interativo [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FISH TV">
+    <display-name lang="pt">FISH TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190413000000 -0300" stop="20190413013000 -0300" channel="Disney Júnior">
+    <title lang="pt">O Rei Leão 2 - O Reino de Simba</title>
+    <desc lang="pt">Kiara, filha de Simba e Nala, nasce herdeira das Terras do Reino. Ela descobre com Timão e Pumba, que seu pai expulsou do reino todos os leões que foram fiéis a Scar(n)</desc>
+    <credits>
+      <director>Darrell Rooney</director>
+      <director>Rob LaDuca</director>
+      <actor>Vozes de Moira Kelly</actor>
+      <actor>Andy Dick</actor>
+      <actor>Matthew Broderick</actor>
+      <actor>Neve Campbell</actor>
+      <actor>Liz Callaway</actor>
+      <actor>Michelle Horn</actor>
+      <actor>Ashley Edner</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413013000 -0300" stop="20190413020000 -0300" channel="Disney Júnior">
+    <title lang="pt">Muppet Babies</title>
+    <desc lang="pt">Muppet Babies narra as travessuras no berçário dos jovens Kermit, Miss Piggy, Fozzie e Gonzo. Eles têm tudo o que precisam a seu alcance, o que os leva às suas fantásticas aventuras(n)</desc>
+    <credits>
+      <director>Guy Moore</director>
+      <director>Yoon-suk Choi</director>
+      <director>Eric Shaw</director>
+      <actor>Vozes de Dee Bradley Baker</actor>
+      <actor>Eric Bauza</actor>
+      <actor>Matt Danner</actor>
+      <actor>Jessica DiCicco</actor>
+      <actor>Jenny Slate</actor>
+      <actor>Melanie Harrison</actor>
+      <actor>Ben Diskin</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413020000 -0300" stop="20190413023000 -0300" channel="Disney Júnior">
+    <title lang="pt">A Guarda do Leão</title>
+    <desc lang="pt">A Guarda do Leão começa quando Kion, o segundo filho de Simba e Nala, torna-se o líder da Guarda do Leão. O grupo reúne os mais ferozes, valentes, rápidos, fortes e de melhor visão para proteger as Terras do Reino(n)</desc>
+    <credits>
+      <director>Howy Parkins</director>
+      <director>Tom De Rosier</director>
+      <actor>Vozes de Max Charles</actor>
+      <actor>Joshua Rush</actor>
+      <actor>Diamond White</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Kevin Schon</actor>
+      <actor>Rob Lowe</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413023000 -0300" stop="20190413030000 -0300" channel="Disney Júnior">
+    <title lang="pt">Puppy Dog Pals</title>
+    <desc lang="pt">A animação apresenta uma divertida dupla de filhotinhos que está sempre pronta para uma nova aventura canina pela vizinhança(n)</desc>
+    <credits>
+      <actor>Vozes de Issac Ryan Brown</actor>
+      <actor>Sam Lavagnino</actor>
+      <actor>Harland Williams</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413030000 -0300" stop="20190413033000 -0300" channel="Disney Júnior">
+    <title lang="pt">A Casa do Mickey Mouse</title>
+    <desc lang="pt">O camundongo mais adorado da história da televisão e seus simpáticos amigos irão protagonizar esta nova e inspiradora série animada em 3D para crianças em idade pré-escolar(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413033000 -0300" stop="20190413040000 -0300" channel="Disney Júnior">
+    <title lang="pt">Princesinha Sofia</title>
+    <desc lang="pt">A doce princesinha Sofia, uma plebeia que vira uma princesa quando sua mãe casa com o rei de Enchancia, Roland II(n)</desc>
+    <credits>
+      <actor>Vozes de Ariel Winter</actor>
+      <actor>Sara Ramirez</actor>
+      <actor>Travis Willingham</actor>
+      <actor>Darcy Rose Byrnes</actor>
+      <actor>Wayne Brady</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413040000 -0300" stop="20190413043000 -0300" channel="Disney Júnior">
+    <title lang="pt">Elena de Avalor</title>
+    <desc lang="pt">Princesa Elena é uma adolescente corajosa e aventureira que salvou seu reino de uma bruxa malvada e precisa aprender a governar, até que seja madura o suficiente para se tornar rainha(n)</desc>
+    <credits>
+      <actor>Aimee Carrero</actor>
+      <actor>Jenna Ortega</actor>
+      <actor>Christian Lanz</actor>
+      <actor>Emiliano Díez</actor>
+      <actor>Carlos Alazraqui</actor>
+      <actor>Julia Vera</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413043000 -0300" stop="20190413043500 -0300" channel="Disney Júnior">
+    <title lang="pt">Simon</title>
+    <desc lang="pt">Simon é um adorável coelhinho cheio de energia e criatividade. Mas ele também está naquela idade de se afirmar, fazer travessura e desobedecer aos pais... Simon tem muito para aprender(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413043500 -0300" stop="20190413044500 -0300" channel="Disney Júnior">
+    <title lang="pt">Simon</title>
+    <desc lang="pt">Simon é um adorável coelhinho cheio de energia e criatividade. Mas ele também está naquela idade de se afirmar, fazer travessura e desobedecer aos pais... Simon tem muito para aprender(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413044500 -0300" stop="20190413050000 -0300" channel="Disney Júnior">
+    <title lang="pt">Cachinhos Dourados e Ursinho</title>
+    <desc lang="pt">Acompanhe as aventuras de Cachinhos Dourados e Ursinho na floresta encantada(n)</desc>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413050000 -0300" stop="20190413053000 -0300" channel="Disney Júnior">
+    <title lang="pt">A Guarda do Leão</title>
+    <desc lang="pt">A Guarda do Leão começa quando Kion, o segundo filho de Simba e Nala, torna-se o líder da Guarda do Leão. O grupo reúne os mais ferozes, valentes, rápidos, fortes e de melhor visão para proteger as Terras do Reino(n)</desc>
+    <credits>
+      <director>Howy Parkins</director>
+      <director>Tom De Rosier</director>
+      <actor>Vozes de Max Charles</actor>
+      <actor>Joshua Rush</actor>
+      <actor>Diamond White</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Kevin Schon</actor>
+      <actor>Rob Lowe</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413053000 -0300" stop="20190413060000 -0300" channel="Disney Júnior">
+    <title lang="pt">Morko e Mali</title>
+    <desc lang="pt">Morko é um menino alegre e aventureiro, que vive na selva com sua irmã Mali, uma jovem valente. Juntamente com seus amigos, eles deverão resolver os mais variados desafios, que os farão viver as aventuras mais divertidas(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413060000 -0300" stop="20190413063000 -0300" channel="Disney Júnior">
+    <title lang="pt">A Casa do Mickey Mouse</title>
+    <desc lang="pt">O camundongo mais adorado da história da televisão e seus simpáticos amigos irão protagonizar esta nova e inspiradora série animada em 3D para crianças em idade pré-escolar(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413063000 -0300" stop="20190413070000 -0300" channel="Disney Júnior">
+    <title lang="pt">Mickey - Aventuras Sobre Rodas</title>
+    <desc lang="pt">Mickey e seus amigos participam de corridas de alta velocidade em veículos rápidos que mudam de tipo e formato, ao redor do mundo(n)</desc>
+    <credits>
+      <actor>Vozes de Bill Farmer</actor>
+      <actor>Bret Iwan</actor>
+      <actor>Tress MacNeille</actor>
+      <actor>Daniel Ross</actor>
+      <actor>Russi Taylor</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413070000 -0300" stop="20190413073000 -0300" channel="Disney Júnior">
+    <title lang="pt">Muppet Babies</title>
+    <desc lang="pt">Muppet Babies narra as travessuras no berçário dos jovens Kermit, Miss Piggy, Fozzie e Gonzo. Eles têm tudo o que precisam a seu alcance, o que os leva às suas fantásticas aventuras(n)</desc>
+    <credits>
+      <director>Guy Moore</director>
+      <director>Yoon-suk Choi</director>
+      <director>Eric Shaw</director>
+      <actor>Vozes de Dee Bradley Baker</actor>
+      <actor>Eric Bauza</actor>
+      <actor>Matt Danner</actor>
+      <actor>Jessica DiCicco</actor>
+      <actor>Jenny Slate</actor>
+      <actor>Melanie Harrison</actor>
+      <actor>Ben Diskin</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413073000 -0300" stop="20190413073500 -0300" channel="Disney Júnior">
+    <title lang="pt">Simon</title>
+    <desc lang="pt">Simon é um adorável coelhinho cheio de energia e criatividade. Mas ele também está naquela idade de se afirmar, fazer travessura e desobedecer aos pais... Simon tem muito para aprender(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413073500 -0300" stop="20190413074500 -0300" channel="Disney Júnior">
+    <title lang="pt">Simon</title>
+    <desc lang="pt">Simon é um adorável coelhinho cheio de energia e criatividade. Mas ele também está naquela idade de se afirmar, fazer travessura e desobedecer aos pais... Simon tem muito para aprender(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413074500 -0300" stop="20190413080000 -0300" channel="Disney Júnior">
+    <title lang="pt">PJ Masks - Heróis de Pijama</title>
+    <desc lang="pt">Veja como o Menino Gato, a Corujita e o Lagartixo salvam o dia durante a noite(n)</desc>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413080000 -0300" stop="20190413093000 -0300" channel="Disney Júnior">
+    <title lang="pt">Toy Story</title>
+    <desc lang="pt">O super-premiado filme da Disney/Pixar que se tornou um fenômeno da animação digital. Uma terna e divertida aventura cheia de humor e lições de vida(n)</desc>
+    <credits>
+      <director>John Lasseter</director>
+      <actor>Vozes de Tom Hanks</actor>
+      <actor>Tim Allen</actor>
+      <actor>Don Rickles</actor>
+      <actor>Jim Varney</actor>
+      <actor>Wallace Shawn</actor>
+      <actor>John Ratzenberger</actor>
+      <actor>Annie Potts</actor>
+      <actor>John Morris</actor>
+      <actor>Erik von Detten</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>R. Lee Ermey</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413093000 -0300" stop="20190413094500 -0300" channel="Disney Júnior">
+    <title lang="pt">Paprika</title>
+    <desc lang="pt">Olivia e Stan são as adoráveis gêmeas Paprika. Nenhum obstáculo é alto demais para elas que transformam a vida cotidiana em maravilhosas e coloridas aventuras(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413094500 -0300" stop="20190413100000 -0300" channel="Disney Júnior">
+    <title lang="pt">Puppy Dog Pals</title>
+    <desc lang="pt">A animação apresenta uma divertida dupla de filhotinhos que está sempre pronta para uma nova aventura canina pela vizinhança(n)</desc>
+    <credits>
+      <actor>Vozes de Issac Ryan Brown</actor>
+      <actor>Sam Lavagnino</actor>
+      <actor>Harland Williams</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413100000 -0300" stop="20190413101500 -0300" channel="Disney Júnior">
+    <title lang="pt">Muppet Babies</title>
+    <desc lang="pt">Muppet Babies narra as travessuras no berçário dos jovens Kermit, Miss Piggy, Fozzie e Gonzo. Eles têm tudo o que precisam a seu alcance, o que os leva às suas fantásticas aventuras(n)</desc>
+    <credits>
+      <director>Guy Moore</director>
+      <director>Yoon-suk Choi</director>
+      <director>Eric Shaw</director>
+      <actor>Vozes de Dee Bradley Baker</actor>
+      <actor>Eric Bauza</actor>
+      <actor>Matt Danner</actor>
+      <actor>Jessica DiCicco</actor>
+      <actor>Jenny Slate</actor>
+      <actor>Melanie Harrison</actor>
+      <actor>Ben Diskin</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413101500 -0300" stop="20190413104500 -0300" channel="Disney Júnior">
+    <title lang="pt">Vampirina 2ª Temp</title>
+    <desc lang="pt">Vampirina conta a história de uma jovem vampira que enfrenta as alegrias e as dificuldades de ser a nova garota na cidade quando sua família se muda da Transilvânia para a Pensilvânia(n)</desc>
+    <credits>
+      <actor>Vozes de James Van Der Beek</actor>
+      <actor>Lauren Graham</actor>
+      <actor>Isabella Crovetti</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413104500 -0300" stop="20190413110000 -0300" channel="Disney Júnior">
+    <title lang="pt">Fancy Nancy Clancy</title>
+    <desc lang="pt">A história de uma jovem garota que ama tudo o que é fancy e sofisticado. Sempre está acompanhada de sua inseparável melhor amiga, Bree, sua irmã mais nova, Jojo, sua cadelinha, Frenchy, sua boneca, Marabelle e seus pais(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413110000 -0300" stop="20190413113000 -0300" channel="Disney Júnior">
+    <title lang="pt">Doutora Brinquedos</title>
+    <desc lang="pt">Doutora Brinquedos conta a história de uma garotinha de seis anos que consegue falar com seus bichinhos de pelúcia e outros bonecos, dos quais ela cuida em sua clínica para brinquedos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413113000 -0300" stop="20190413120000 -0300" channel="Disney Júnior">
+    <title lang="pt">Doutora Brinquedos</title>
+    <desc lang="pt">Doutora Brinquedos conta a história de uma garotinha de seis anos que consegue falar com seus bichinhos de pelúcia e outros bonecos, dos quais ela cuida em sua clínica para brinquedos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413120000 -0300" stop="20190413123000 -0300" channel="Disney Júnior">
+    <title lang="pt">Doutora Brinquedos</title>
+    <desc lang="pt">Doutora Brinquedos conta a história de uma garotinha de seis anos que consegue falar com seus bichinhos de pelúcia e outros bonecos, dos quais ela cuida em sua clínica para brinquedos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413123000 -0300" stop="20190413140000 -0300" channel="Disney Júnior">
+    <title lang="pt">A Bela e a Fera</title>
+    <desc lang="pt">O pai de Bela é aprisionado pela Fera, que na verdade é um príncipe encantado, e Bela se oferece para ficar no lugar do pai. Assim, acaba por conhecer melhor a Fera e apaixona-se por ela, quebrando seu encanto(n)</desc>
+    <credits>
+      <director>Gary Trousdale</director>
+      <director>Kirk Wise</director>
+      <actor>Vozes de Paige O'Hara</actor>
+      <actor>Robby Benson</actor>
+      <actor>Richard White</actor>
+      <actor>Jerry Orbach</actor>
+      <actor>David Ogden Stiers</actor>
+      <actor>Angela Lansbury</actor>
+      <actor>Jesse Corti</actor>
+    </credits>
+    <date>1991</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413140000 -0300" stop="20190413153000 -0300" channel="Disney Júnior">
+    <title lang="pt">O Natal Encantado da Bela e a Fera</title>
+    <desc lang="pt">É véspera de Natal e Bela planeja animar e decorar o castelo sombrio de Fera com alegria e muitos enfeites, mesmo sabendo que Fera detesta o Natal(n)</desc>
+    <credits>
+      <director>Andy Knight</director>
+      <actor>Vozes de Paige O'Hara</actor>
+      <actor>Robby Benson</actor>
+      <actor>Jerry Orbach</actor>
+      <actor>David O.Stiers</actor>
+      <actor>Bernadette Peters</actor>
+      <actor>Tim Curry</actor>
+      <actor>Haley J.Osment</actor>
+    </credits>
+    <date>1997</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413153000 -0300" stop="20190413170000 -0300" channel="Disney Júnior">
+    <title lang="pt">O Mundo Mágico de Bela</title>
+    <desc lang="pt">A Bela e a Fera estão juntos, mas precisam aprender a conviver. Depois de enfrentar alguns desentendidos, aprendem o valor da amizade, do amor e do trabalho em conjunto para uma convivência harmoniosa entre todos no castelo(n)</desc>
+    <credits>
+      <director>Cullen Blaine</director>
+      <director>Dale Case</director>
+      <actor>Vozes de Jeff Bennett</actor>
+      <actor>Paige O'Hara</actor>
+      <actor>Robby Benson</actor>
+      <actor>Jim Cummings</actor>
+      <actor>Gregory Grudt</actor>
+      <actor>David Ogden Stiers</actor>
+      <actor>Jerry Orbach</actor>
+      <actor>Anne Rogers</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413170000 -0300" stop="20190413173000 -0300" channel="Disney Júnior">
+    <title lang="pt">Elena de Avalor</title>
+    <desc lang="pt">Princesa Elena é uma adolescente corajosa e aventureira que salvou seu reino de uma bruxa malvada e precisa aprender a governar, até que seja madura o suficiente para se tornar rainha(n)</desc>
+    <credits>
+      <actor>Aimee Carrero</actor>
+      <actor>Jenna Ortega</actor>
+      <actor>Christian Lanz</actor>
+      <actor>Emiliano Díez</actor>
+      <actor>Carlos Alazraqui</actor>
+      <actor>Julia Vera</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413173000 -0300" stop="20190413180000 -0300" channel="Disney Júnior">
+    <title lang="pt">Junior Express</title>
+    <desc lang="pt">Junior Express é a nova produção original do Disney Junior América Latina em que Topa, um capitão alegre e animado, viaja ao lado de uma tripulação incrível de amigos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413180000 -0300" stop="20190413183000 -0300" channel="Disney Júnior">
+    <title lang="pt">A Guarda do Leão</title>
+    <desc lang="pt">A Guarda do Leão começa quando Kion, o segundo filho de Simba e Nala, torna-se o líder da Guarda do Leão. O grupo reúne os mais ferozes, valentes, rápidos, fortes e de melhor visão para proteger as Terras do Reino(n)</desc>
+    <credits>
+      <director>Howy Parkins</director>
+      <director>Tom De Rosier</director>
+      <actor>Vozes de Max Charles</actor>
+      <actor>Joshua Rush</actor>
+      <actor>Diamond White</actor>
+      <actor>Atticus Shaffer</actor>
+      <actor>Kevin Schon</actor>
+      <actor>Rob Lowe</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413183000 -0300" stop="20190413184500 -0300" channel="Disney Júnior">
+    <title lang="pt">Puppy Dog Pals</title>
+    <desc lang="pt">A animação apresenta uma divertida dupla de filhotinhos que está sempre pronta para uma nova aventura canina pela vizinhança(n)</desc>
+    <credits>
+      <actor>Vozes de Issac Ryan Brown</actor>
+      <actor>Sam Lavagnino</actor>
+      <actor>Harland Williams</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413184500 -0300" stop="20190413190000 -0300" channel="Disney Júnior">
+    <title lang="pt">PJ Masks - Heróis de Pijama</title>
+    <desc lang="pt">Veja como o Menino Gato, a Corujita e o Lagartixo salvam o dia durante a noite(n)</desc>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413190000 -0300" stop="20190413191500 -0300" channel="Disney Júnior">
+    <title lang="pt">Muppet Babies</title>
+    <desc lang="pt">Muppet Babies narra as travessuras no berçário dos jovens Kermit, Miss Piggy, Fozzie e Gonzo. Eles têm tudo o que precisam a seu alcance, o que os leva às suas fantásticas aventuras(n)</desc>
+    <credits>
+      <director>Guy Moore</director>
+      <director>Yoon-suk Choi</director>
+      <director>Eric Shaw</director>
+      <actor>Vozes de Dee Bradley Baker</actor>
+      <actor>Eric Bauza</actor>
+      <actor>Matt Danner</actor>
+      <actor>Jessica DiCicco</actor>
+      <actor>Jenny Slate</actor>
+      <actor>Melanie Harrison</actor>
+      <actor>Ben Diskin</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413191500 -0300" stop="20190413193000 -0300" channel="Disney Júnior">
+    <title lang="pt">Fancy Nancy Clancy</title>
+    <desc lang="pt">A história de uma jovem garota que ama tudo o que é fancy e sofisticado. Sempre está acompanhada de sua inseparável melhor amiga, Bree, sua irmã mais nova, Jojo, sua cadelinha, Frenchy, sua boneca, Marabelle e seus pais(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413193000 -0300" stop="20190413194500 -0300" channel="Disney Júnior">
+    <title lang="pt">Mickey - Aventuras Sobre Rodas</title>
+    <desc lang="pt">Mickey e seus amigos participam de corridas de alta velocidade em veículos rápidos que mudam de tipo e formato, ao redor do mundo(n)</desc>
+    <credits>
+      <actor>Vozes de Bill Farmer</actor>
+      <actor>Bret Iwan</actor>
+      <actor>Tress MacNeille</actor>
+      <actor>Daniel Ross</actor>
+      <actor>Russi Taylor</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413194500 -0300" stop="20190413200000 -0300" channel="Disney Júnior">
+    <title lang="pt">Vampirina 2ª Temp</title>
+    <desc lang="pt">Vampirina conta a história de uma jovem vampira que enfrenta as alegrias e as dificuldades de ser a nova garota na cidade quando sua família se muda da Transilvânia para a Pensilvânia(n)</desc>
+    <credits>
+      <actor>Vozes de James Van Der Beek</actor>
+      <actor>Lauren Graham</actor>
+      <actor>Isabella Crovetti</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413200000 -0300" stop="20190413213000 -0300" channel="Disney Júnior">
+    <title lang="pt">Toy Story</title>
+    <desc lang="pt">O super-premiado filme da Disney/Pixar que se tornou um fenômeno da animação digital. Uma terna e divertida aventura cheia de humor e lições de vida(n)</desc>
+    <credits>
+      <director>John Lasseter</director>
+      <actor>Vozes de Tom Hanks</actor>
+      <actor>Tim Allen</actor>
+      <actor>Don Rickles</actor>
+      <actor>Jim Varney</actor>
+      <actor>Wallace Shawn</actor>
+      <actor>John Ratzenberger</actor>
+      <actor>Annie Potts</actor>
+      <actor>John Morris</actor>
+      <actor>Erik von Detten</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>R. Lee Ermey</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413213000 -0300" stop="20190413214500 -0300" channel="Disney Júnior">
+    <title lang="pt">Puppy Dog Pals: A.R.F</title>
+    <desc lang="pt">A animação apresenta uma divertida dupla de filhotinhos que está sempre pronta para uma nova aventura canina pela vizinhança(n)</desc>
+    <credits>
+      <director>Don MacKinnon</director>
+      <director>Trevor Wall</director>
+      <actor>Vozes de Issac Ryan Brown</actor>
+      <actor>Sam Lavagnino</actor>
+      <actor>Harland Williams</actor>
+      <actor>Leslie David Baker</actor>
+      <actor>Jessica DiCicco</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413214500 -0300" stop="20190413220000 -0300" channel="Disney Júnior">
+    <title lang="pt">PJ Masks - Heróis de Pijama</title>
+    <desc lang="pt">Veja como o Menino Gato, a Corujita e o Lagartixo salvam o dia durante a noite(n)</desc>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413220000 -0300" stop="20190413223000 -0300" channel="Disney Júnior">
+    <title lang="pt">Morko e Mali</title>
+    <desc lang="pt">Morko é um menino alegre e aventureiro, que vive na selva com sua irmã Mali, uma jovem valente. Juntamente com seus amigos, eles deverão resolver os mais variados desafios, que os farão viver as aventuras mais divertidas(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413223000 -0300" stop="20190413230000 -0300" channel="Disney Júnior">
+    <title lang="pt">Vampirina 2ª Temp</title>
+    <desc lang="pt">Vampirina conta a história de uma jovem vampira que enfrenta as alegrias e as dificuldades de ser a nova garota na cidade quando sua família se muda da Transilvânia para a Pensilvânia(n)</desc>
+    <credits>
+      <actor>Vozes de James Van Der Beek</actor>
+      <actor>Lauren Graham</actor>
+      <actor>Isabella Crovetti</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413230000 -0300" stop="20190413233000 -0300" channel="Disney Júnior">
+    <title lang="pt">Mickey - Aventuras Sobre Rodas</title>
+    <desc lang="pt">Mickey e seus amigos participam de corridas de alta velocidade em veículos rápidos que mudam de tipo e formato, ao redor do mundo(n)</desc>
+    <credits>
+      <actor>Vozes de Bill Farmer</actor>
+      <actor>Bret Iwan</actor>
+      <actor>Tress MacNeille</actor>
+      <actor>Daniel Ross</actor>
+      <actor>Russi Taylor</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190413000000 -0300" stop="20190413030000 -0300" channel="FISH TV">
+    <title lang="pt">TV Shopping Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413030000 -0300" stop="20190413033000 -0300" channel="FISH TV">
+    <title lang="pt">Ases da Pesca em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413033000 -0300" stop="20190413040000 -0300" channel="FISH TV">
+    <title lang="pt">A Arte do Atado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413040000 -0300" stop="20190413050000 -0300" channel="FISH TV">
+    <title lang="pt">Pesque e Pague</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413050000 -0300" stop="20190413053000 -0300" channel="FISH TV">
+    <title lang="pt">Provas e Torneios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413053000 -0300" stop="20190413060000 -0300" channel="FISH TV">
+    <title lang="pt">Aqua Negócios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413060000 -0300" stop="20190413063000 -0300" channel="FISH TV">
+    <title lang="pt">Pesca Dinâmica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413063000 -0300" stop="20190413070000 -0300" channel="FISH TV">
+    <title lang="pt">Destinos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413070000 -0300" stop="20190413073000 -0300" channel="FISH TV">
+    <title lang="pt">Provas e Torneios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413073000 -0300" stop="20190413083000 -0300" channel="FISH TV">
+    <title lang="pt">Campeonato Brasileiro em Pesqueiros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413083000 -0300" stop="20190413090000 -0300" channel="FISH TV">
+    <title lang="pt">Pasión Por La Pesca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413090000 -0300" stop="20190413100000 -0300" channel="FISH TV">
+    <title lang="pt">Pesque e Pague</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413100000 -0300" stop="20190413110000 -0300" channel="FISH TV">
+    <title lang="pt">Na Pegada do Fly</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413110000 -0300" stop="20190413113000 -0300" channel="FISH TV">
+    <title lang="pt">Sabores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413113000 -0300" stop="20190413120000 -0300" channel="FISH TV">
+    <title lang="pt">Melhores Destinos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413120000 -0300" stop="20190413123000 -0300" channel="FISH TV">
+    <title lang="pt">Saltwater</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413123000 -0300" stop="20190413130000 -0300" channel="FISH TV">
+    <title lang="pt">Aquarismo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413130000 -0300" stop="20190413133000 -0300" channel="FISH TV">
+    <title lang="pt">Biopesca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413133000 -0300" stop="20190413140000 -0300" channel="FISH TV">
+    <title lang="pt">Aqua Negócios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413140000 -0300" stop="20190413143000 -0300" channel="FISH TV">
+    <title lang="pt">Família Nakamura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413143000 -0300" stop="20190413150000 -0300" channel="FISH TV">
+    <title lang="pt">Fish TV News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413150000 -0300" stop="20190413153000 -0300" channel="FISH TV">
+    <title lang="pt">Elas na Pesca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413153000 -0300" stop="20190413160000 -0300" channel="FISH TV">
+    <title lang="pt">Pasión Por La Pesca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413160000 -0300" stop="20190413170000 -0300" channel="FISH TV">
+    <title lang="pt">Coração de Pescador</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413170000 -0300" stop="20190413180000 -0300" channel="FISH TV">
+    <title lang="pt">A Meta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413180000 -0300" stop="20190413183000 -0300" channel="FISH TV">
+    <title lang="pt">Aquarismo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413183000 -0300" stop="20190413190000 -0300" channel="FISH TV">
+    <title lang="pt">Biopesca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413190000 -0300" stop="20190413200000 -0300" channel="FISH TV">
+    <title lang="pt">Pura Pesca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413200000 -0300" stop="20190413203000 -0300" channel="FISH TV">
+    <title lang="pt">Sabores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413203000 -0300" stop="20190413210000 -0300" channel="FISH TV">
+    <title lang="pt">Elas na Pesca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413210000 -0300" stop="20190413213000 -0300" channel="FISH TV">
+    <title lang="pt">Melhores Destinos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413213000 -0300" stop="20190413220000 -0300" channel="FISH TV">
+    <title lang="pt">Fish TV News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413220000 -0300" stop="20190413230000 -0300" channel="FISH TV">
+    <title lang="pt">A Meta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413230000 -0300" stop="20190413233000 -0300" channel="FISH TV">
+    <title lang="pt">Família Nakamura</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190413233000 -0300" stop="20190414000000 -0300" channel="FISH TV">
+    <title lang="pt">A Arte do Atado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
